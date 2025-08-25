@@ -124,6 +124,8 @@ Este curso fornece um nível de conhecimento básico sobre:
 - [O que é Computação em Nuvem](https://learn.microsoft.com/training/modules/describe-cloud-compute/3-what-cloud-compute)
 - [Modelos de Nuvem](https://learn.microsoft.com/training/modules/describe-cloud-compute/5-define-cloud-models)
 - [GitHub - Resumo do Lab](https://github.com/PedroSimonato/resumo-do-lab/tree/main)
+- [README Principal](../../README.md)
+
 
 ---
 
