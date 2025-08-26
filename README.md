@@ -15,10 +15,12 @@ Este espaço foi criado para reunir:
 ## 📝 Cursos e Materiais
 
 
+
 Confira o conteúdo detalhado do curso AZ-900 e outros materiais em:
 
 - [Introdução à computação em Nuvem](./Cursos/Introdução%20a%20Computação%20em%20Nuvem/README.md)
 - [Benefícios da Computação em Nuvem](./Cursos/Bernefícios%20da%20computação%20em%20nuvem/README.md)
+- [Tipos de Serviço de Nuvem e SQL Gerenciado](./Cursos/Tipos%20de%20Serviço%20de%20nuvem/README.md)
 
 ## 🌐 Links Úteis
 
